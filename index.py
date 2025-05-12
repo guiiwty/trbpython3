@@ -55,7 +55,7 @@ def filtrar_atendimentos():
 
 def main():
     while True:
-        print("\n==== SISTEMA DE ATENDIMENTO TÉCNICO ====")
+        print("\nSISTEMA DE ATENDIMENTO TÉCNICO")
         print("1. Registrar novo atendimento")
         print("2. Filtrar atendimentos")
         print("3. Criar backup binário")
